@@ -1,5 +1,4 @@
 import { Component } from "react";
-import myStyle from './Footer.module.css'
 // import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import { FaFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
