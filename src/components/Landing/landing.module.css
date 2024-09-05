@@ -1,0 +1,16 @@
+
+.test{
+    padding-top: 45px;
+    text-align: center;
+    color: white;
+
+}
+.bg{
+    background-image: url('/860.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
